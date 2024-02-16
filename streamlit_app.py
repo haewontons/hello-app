@@ -19,7 +19,7 @@ with st.container():
         
 st.write("Eve Tse was born on the 17th of February 2008. Born on the year of the rat, and evidently"
                      " so, she's the :red[sweetest] little rodent of all the land <3. As an :blue[Aquarious], she certainly"
-                     " upholds the clever, analytical, and problem solving traits of the (hot) Water Bearer"
+                     " upholds the clever, analytical, and problem solving traits of the :red[(hot)] :blue[Water Bearer]"
                 )
 st.write("Eve Tse is the most patient and tolerating individual one may ever cross paths with"
                  " in their life. There is none other who will bear to listen to all the same shit every"
@@ -28,7 +28,7 @@ st.write("Eve Tse is the most patient and tolerating individual one may ever cro
 st.write("There is nobody else in the world who can spread good vibes quite like Eve does."
                  " The whole world turns to look when she laughs (coz she's usually laughing with Haewon and "
                  " Haewon always laughs so godamn loud). The whole world turns to look when she sneezes (coz"
-                 " she sneezes so many :red[fuckn] times at once). But most importantly, the whole world turns to look"
+                 " she sneezes so many fuckn times at once). But most importantly, the whole world turns to look"
                  " when they hear the :blue['THUCK THUCK THUCK'] of the four legged creature hopping around the corner."
                  )
 
