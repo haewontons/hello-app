@@ -1,5 +1,5 @@
 import requests
-import streamlit as st
+#import streamlit as st
 from streamlit_lottie import st_lottie
 
 
@@ -14,13 +14,13 @@ textColor = "red"
 st.set_page_config(page_title= "Happy Bday Eve", page_icon=":tada:", layout='wide')
 
 
-def load_lottieurl (url):
-    r = requests.get(url)
-    if r.status_code != 200:
-        return None
-    return r.json()
+#def load_lottieurl (url):
+    #r = requests.get(url)
+    #if r.status_code != 200:
+     #   return None
+    #return r.json()
 
-lottie_coding = load_lottieurl ("https://lottie.host/cb6909b4-c58a-40b2-97c0-d1dc4fd85ebd/pXrGjcJKZD.json")
+#lottie_coding = load_lottieurl ("https://lottie.host/cb6909b4-c58a-40b2-97c0-d1dc4fd85ebd/pXrGjcJKZD.json")
 
 
 
@@ -35,7 +35,7 @@ with st.container():
              "can't write shit on the small ass panels of the physical card haha. So yk how I was learning how to "
              "code on Python, I figured out how to like make it into a webpage.")
     with second_column:
-        st_lottie(lottie_coding, height = 300)
+      #  st_lottie(lottie_coding, height = 300)
 
 
 
