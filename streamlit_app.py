@@ -1,37 +1,17 @@
-import requests
 import streamlit as st
-from streamlit_lottie import st_lottie
-
-
 
 st.set_page_config(page_title= "Happy Bday Eve", page_icon=":tada:", layout='wide')
 
 
-def load_lottieurl (url):
-    r = requests.get(url)
-    if r.status_code != 200:
-        return None
-        return r.json()
-
-lottie_coding = load_lottieurl ("https://lottie.host/cb6909b4-c58a-40b2-97c0-d1dc4fd85ebd/pXrGjcJKZD.json")
-
-
-
-
 # HEADER section
 with st.container():
-    first_column, second_column = st.columns((3, 1))
-    with first_column:
         st.title("HAPPY BIRTHDAY EVE!")
         st.subheader("An extension to your card...")
         st.write("Using my awesome computer science skills, I've built a small webpage to extend your birthday card coz u "
              "can't write shit on the small ass panels of the physical card haha. So yk how I was learning how to "
              "code on Python, I figured out how to like make it into a webpage.")
-    with second_column:
-        st_lottie(lottie_coding, height = 300)
-
-
-
+ 
+    
 
 # This is eve
 with st.container():
