@@ -18,7 +18,7 @@ with st.container():
     st.header("A bit about Eve Tse")
         
 st.write("Eve Tse was born on the 17th of February 2008. Born on the year of the rat, and evidently"
-                     " so, she's the :pink[sweetest] little rodent of all the land <3. As an :blue[Aquarious], she certainly"
+                     " so, she's the :red[sweetest] little rodent of all the land <3. As an :blue[Aquarious], she certainly"
                      " upholds the clever, analytical, and problem solving traits of the (hot) Water Bearer"
                 )
 st.write("Eve Tse is the most patient and tolerating individual one may ever cross paths with"
@@ -29,13 +29,13 @@ st.write("There is nobody else in the world who can spread good vibes quite like
                  " The whole world turns to look when she laughs (coz she's usually laughing with Haewon and "
                  " Haewon always laughs so godamn loud). The whole world turns to look when she sneezes (coz"
                  " she sneezes so many :red[fuckn] times at once). But most importantly, the whole world turns to look"
-                 " when they hear the :red['THUCK THUCK THUCK'] of the four legged creature hopping around the corner."
+                 " when they hear the :blue['THUCK THUCK THUCK'] of the four legged creature hopping around the corner."
                  )
 
 with st.container():
         st.write("---")
         st.header('So...')
-        st.write("Have an swagtastic sweet 16th Eve, you are the :yellow[light] of my life, the first person I look for when I walk into a room (actually make that the *second person HAAAHAHA)"
+        st.write("Have a :green[swagtastic] sweet 16th Eve, you are the light of my life, the first person I look for when I walk into a room (actually make that the *second person HAAAHAHA)"
                 " You've kept this crusty old heart beating and given it some of the happiest memories of its life. I can't've wished for a more suited person to share my laughter, tears,"
                 " and gossips with, you are my no.1 fan, Haewon stan. You're my other half, and I'm always listening out for the sound or crutches because I can't live without you my love."
                 " :pink[Hip Hip Hooray] for Eve's sixteenth, and may the two of us delight in the many more to come :red[<3] ")
