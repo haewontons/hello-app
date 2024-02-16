@@ -17,17 +17,16 @@ with st.container():
 with st.container():
     st.write("---")
     st.header("A bit about Eve Tse")
-
-
-        st.write("Eve Tse was born on the 17th of February 2008. Born on the year of the rat, and evidently"
+        
+st.write("Eve Tse was born on the 17th of February 2008. Born on the year of the rat, and evidently"
                      " so, she's the sweetest little rodent of all the land <3. As an Aquarious, she certainly"
                      " upholds the clever, analytical, and problem solving traits of the (hot) Water Bearer"
                 )
-        st.write("Eve Tse is the most patient and tolerating individual one may ever cross paths with"
+st.write("Eve Tse is the most patient and tolerating individual one may ever cross paths with"
                  " in their life. There is none other who will bear to listen to all the same shit every"
                  " day about the same shitty situation Haewon's found herself in over some shitty person."
                  "")
-        st.write("There is nobody else in the world who can spread good vibes quite like Eve does."
+st.write("There is nobody else in the world who can spread good vibes quite like Eve does."
                  " The whole world turns to look when she laughs (coz she's usually laughing with Haewon and "
                  " Haewon always laughs so godamn loud). The whole world turns to look when she sneezes (coz"
                  " she sneezes so many fuckn times at once). But most importantly, the whole world turns to look"
