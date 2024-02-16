@@ -18,7 +18,7 @@ with st.container():
     st.header("A bit about Eve Tse")
         
 st.write("Eve Tse was born on the 17th of February 2008. Born on the year of the rat, and evidently"
-                     " so, she's the red:[sweetest] little rodent of all the land <3. As an Aquarious, she certainly"
+                     " so, she's the :red[sweetest] little rodent of all the land <3. As an Aquarious, she certainly"
                      " upholds the clever, analytical, and problem solving traits of the (hot) Water Bearer"
                 )
 st.write("Eve Tse is the most patient and tolerating individual one may ever cross paths with"
