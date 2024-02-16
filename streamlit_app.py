@@ -38,7 +38,7 @@ with st.container():
         st.write("Have an swagtastic sweet 16th Eve, you are the light of my life, the first person I look for when I walk into a room (actually make that the *second person HAAAHAHA)"
                 " You've kept this crusty old heart beating and given it some of the happiest memories of its life. I can't've wished for a more suited person to share my laughter, tears,"
                 " and gossips with, you are my no.1 fan, Haewon stan. You're my other half, and I'm always listening out for the sound or crutches because I can't live without you my love."
-                " Hip Hip Hooray for Eve's sixteenth, and may the two of us delight in the many more to come <3 "
+                " Hip Hip Hooray for Eve's sixteenth, and may the two of us delight in the many more to come <3 ")
                 
         
 
