@@ -4,7 +4,7 @@ import streamlit as st
 
 
 
-#st.set_page_config(page_title= "Happy Bday Eve", page_icon=":tada:", layout='wide')
+st.set_page_config(page_title= "Happy Bday Eve", page_icon=":tada:", layout='wide')
 
 
 #def load_lottieurl (url):
@@ -34,12 +34,12 @@ with st.container():
 
 
 # This is eve
-#with st.container():
- #   st.write("---")
- #   st.header("This is Eve Tse")
+with st.container():
+    st.write("---")
+    st.header("This is Eve Tse")
 
-#    first_column, second_column = st.columns((2, 1))
-#    with first_column:
+    first_column, second_column = st.columns((2, 1))
+    with first_column:
         st.write("Eve Tse was born on the 17th of February 2008. Born on the year of the rat, and evidently"
                      "so, she's the sweetest little rodent of all the land <3. As an Aquarious, she certainly"
                      "upholds the clever, analytical, and problem solving traits of the (hot) Water Bearer"
@@ -56,8 +56,8 @@ with st.container():
                  )
 
 
-  #  with second_column:
-   #     st.write('image')
+    with second_column:
+        st.write('image')
 
 #with st.container():
 #    st.write("---")
