@@ -40,7 +40,7 @@ with st.container():
                 " and gossips with, you are my no.1 fan, Haewon stan. You're my other half, and I'm always listening out for the sound of crutches because I can't live without you my love."
                 " Hip Hip Hooray for Eve's sixteenth, and may the two of us delight in the many more to come :red[<3] "
                 "Love you a million :red[MWAH]"
-                ":blue[Haehae :D]')
+                ":blue[Haehae :D]")
                 
         
 
